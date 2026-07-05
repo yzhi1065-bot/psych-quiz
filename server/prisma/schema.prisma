@@ -1,0 +1,124 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+// 生产环境切换到 MySQL:
+// provider = "mysql"  
+// url      = env("DATABASE_URL")
+
+model User {
+  id            Int       @id @default(autoincrement())
+  phone         String?   @unique
+  passwordHash  String?
+  wxOpenId      String?   @unique
+  wxUnionId     String?
+  nickname      String?
+  avatarUrl     String?
+  totalAnswered Int       @default(0)
+  totalCorrect  Int       @default(0)
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  answers   UserAnswer[]
+  mistakes  UserMistake[]
+  favorites UserFavorite[]
+
+  @@map("sys_user")
+}
+
+model Chapter {
+  id        Int       @id @default(autoincrement())
+  name      String
+  parentId  Int?
+  parent    Chapter?  @relation("ChapterTree", fields: [parentId], references: [id])
+  children  Chapter[] @relation("ChapterTree")
+  sortOrder Int       @default(0)
+  status    Int       @default(1)
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+
+  questions Question[]
+
+  @@map("q_chapter")
+}
+
+model Question {
+  id         Int       @id @default(autoincrement())
+  type       Int
+  chapterId  Int
+  chapter    Chapter   @relation(fields: [chapterId], references: [id])
+  content    String
+  answer     String
+  analysis   String?
+  difficulty Int?      @default(1)
+  status     Int       @default(1)
+  sortOrder  Int       @default(0)
+  createdAt  DateTime  @default(now())
+  updatedAt  DateTime  @updatedAt
+
+  options   QuestionOption[]
+  answers   UserAnswer[]
+  mistakes  UserMistake[]
+  favorites UserFavorite[]
+
+  @@index([chapterId])
+  @@map("q_question")
+}
+
+model QuestionOption {
+  id         Int      @id @default(autoincrement())
+  questionId Int
+  question   Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  label      String
+  content    String
+  sortOrder  Int      @default(0)
+
+  @@index([questionId])
+  @@map("q_option")
+}
+
+model UserAnswer {
+  id         Int      @id @default(autoincrement())
+  userId     Int
+  user       User     @relation(fields: [userId], references: [id])
+  questionId Int
+  question   Question @relation(fields: [questionId], references: [id])
+  userAnswer String
+  isCorrect  Boolean
+  createdAt  DateTime @default(now())
+
+  @@index([userId, questionId])
+  @@index([userId, createdAt])
+  @@map("user_answer")
+}
+
+model UserFavorite {
+  id          Int      @id @default(autoincrement())
+  userId      Int
+  user        User     @relation(fields: [userId], references: [id])
+  questionId  Int
+  question    Question @relation(fields: [questionId], references: [id])
+  createdAt   DateTime @default(now())
+
+  @@unique([userId, questionId])
+  @@map("user_favorite")
+}
+
+model UserMistake {
+  id          Int      @id @default(autoincrement())
+  userId      Int
+  user        User     @relation(fields: [userId], references: [id])
+  questionId  Int
+  question    Question @relation(fields: [questionId], references: [id])
+  wrongCount  Int      @default(1)
+  lastWrongAt DateTime @default(now())
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@unique([userId, questionId])
+  @@map("user_mistake")
+}
