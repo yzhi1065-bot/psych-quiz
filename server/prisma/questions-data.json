@@ -1,0 +1,2945 @@
+[
+  {
+    "type": 1,
+    "chapterId": 1,
+    "content": "心理现象分为哪两部分？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "认识过程和行为"
+      },
+      {
+        "label": "B",
+        "content": "心理过程和人格"
+      },
+      {
+        "label": "C",
+        "content": "意识活动和潜意识活动"
+      },
+      {
+        "label": "D",
+        "content": "心理状态和心理特征"
+      }
+    ],
+    "analysis": "心理现象分为心理过程和人格（个性心理）两部分。心理过程包括认识、情感和意志过程；人格包括人格倾向性和人格特征。"
+  },
+  {
+    "type": 1,
+    "chapterId": 1,
+    "content": "以下哪个不属于认识过程？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "感觉"
+      },
+      {
+        "label": "B",
+        "content": "知觉"
+      },
+      {
+        "label": "C",
+        "content": "记忆"
+      },
+      {
+        "label": "D",
+        "content": "情绪"
+      }
+    ],
+    "analysis": "认识过程包括感觉、知觉、记忆、思维、想象等。情绪属于情感过程，不属于认识过程。"
+  },
+  {
+    "type": 1,
+    "chapterId": 1,
+    "content": "神经系统的基本结构单位是？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "突触"
+      },
+      {
+        "label": "B",
+        "content": "神经纤维"
+      },
+      {
+        "label": "C",
+        "content": "神经元"
+      },
+      {
+        "label": "D",
+        "content": "神经胶质细胞"
+      }
+    ],
+    "analysis": "神经元（neuron）是神经系统的基本结构单位和功能单位。"
+  },
+  {
+    "type": 1,
+    "chapterId": 1,
+    "content": "对刺激的感觉能力称为？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "感觉阈限"
+      },
+      {
+        "label": "B",
+        "content": "绝对感觉阈限"
+      },
+      {
+        "label": "C",
+        "content": "感受性"
+      },
+      {
+        "label": "D",
+        "content": "差别感觉阈限"
+      }
+    ],
+    "analysis": "感受性是对刺激的感觉能力，用感觉阈限来衡量。感受性与感觉阈限成反比。"
+  },
+  {
+    "type": 1,
+    "chapterId": 1,
+    "content": "\"红花绿叶\"所反映的感觉规律是？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "感觉适应"
+      },
+      {
+        "label": "B",
+        "content": "感觉后像"
+      },
+      {
+        "label": "C",
+        "content": "感觉对比"
+      },
+      {
+        "label": "D",
+        "content": "联觉"
+      }
+    ],
+    "analysis": "感觉对比是指不同刺激作用于同一感受器使感受性发生变化的现象，红花和绿叶形成对比。"
+  },
+  {
+    "type": 1,
+    "chapterId": 1,
+    "content": "看到红色感觉温暖，属于什么心理现象？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "感觉适应"
+      },
+      {
+        "label": "B",
+        "content": "感觉后像"
+      },
+      {
+        "label": "C",
+        "content": "联觉"
+      },
+      {
+        "label": "D",
+        "content": "感觉补偿"
+      }
+    ],
+    "analysis": "联觉（synesthesia）是一种感觉通道的刺激引起另一种感觉通道的心理现象，如红色引起温暖感。"
+  },
+  {
+    "type": 1,
+    "chapterId": 1,
+    "content": "知觉的基本特性不包括？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "选择性"
+      },
+      {
+        "label": "B",
+        "content": "整体性"
+      },
+      {
+        "label": "C",
+        "content": "理解性"
+      },
+      {
+        "label": "D",
+        "content": "可塑性"
+      }
+    ],
+    "analysis": "知觉的基本特性包括选择性、整体性、理解性和恒常性，不包括可塑性。"
+  },
+  {
+    "type": 1,
+    "chapterId": 1,
+    "content": "短时记忆的容量约为？",
+    "answer": "A",
+    "options": [
+      {
+        "label": "A",
+        "content": "7±2 个组块"
+      },
+      {
+        "label": "B",
+        "content": "5±2 个组块"
+      },
+      {
+        "label": "C",
+        "content": "9±2 个组块"
+      },
+      {
+        "label": "D",
+        "content": "3±2 个组块"
+      }
+    ],
+    "analysis": "Miller（1956）提出短时记忆容量为7±2个组块（chunk）。"
+  },
+  {
+    "type": 1,
+    "chapterId": 1,
+    "content": "遗忘的规律是？",
+    "answer": "A",
+    "options": [
+      {
+        "label": "A",
+        "content": "先快后慢"
+      },
+      {
+        "label": "B",
+        "content": "先慢后快"
+      },
+      {
+        "label": "C",
+        "content": "匀速递减"
+      },
+      {
+        "label": "D",
+        "content": "呈直线下降"
+      }
+    ],
+    "analysis": "艾宾浩斯遗忘曲线表明，遗忘的进程是不均衡的，先快后慢，呈负加速型。"
+  },
+  {
+    "type": 1,
+    "chapterId": 1,
+    "content": "下列哪个不是思维的基本形式？",
+    "answer": "A",
+    "options": [
+      {
+        "label": "A",
+        "content": "推理"
+      },
+      {
+        "label": "B",
+        "content": "概念"
+      },
+      {
+        "label": "C",
+        "content": "判断"
+      },
+      {
+        "label": "D",
+        "content": "推理"
+      }
+    ],
+    "analysis": "思维的基本形式包括概念、判断和推理。推理是思维的一种过程而非基本形式。"
+  },
+  {
+    "type": 2,
+    "chapterId": 1,
+    "content": "以下属于感觉现象的有？",
+    "answer": "A,B,D",
+    "options": [
+      {
+        "label": "A",
+        "content": "感觉适应"
+      },
+      {
+        "label": "B",
+        "content": "感觉对比"
+      },
+      {
+        "label": "C",
+        "content": "知觉恒常性"
+      },
+      {
+        "label": "D",
+        "content": "联觉"
+      }
+    ],
+    "analysis": "感觉适应、感觉对比、联觉都是感觉现象；知觉恒常性是知觉的特性，不属于感觉现象。"
+  },
+  {
+    "type": 2,
+    "chapterId": 1,
+    "content": "影响遗忘的因素包括？",
+    "answer": "A,B,C,D",
+    "options": [
+      {
+        "label": "A",
+        "content": "识记材料的性质和数量"
+      },
+      {
+        "label": "B",
+        "content": "学习的程度"
+      },
+      {
+        "label": "C",
+        "content": "识记材料的系列位置"
+      },
+      {
+        "label": "D",
+        "content": "识记者的态度"
+      }
+    ],
+    "analysis": "影响遗忘的因素包括：识记材料的性质、数量、系列位置效应、学习程度、识记者态度等。"
+  },
+  {
+    "type": 3,
+    "chapterId": 1,
+    "content": "注意是心理活动对一定对象的指向和集中，是一种独立的心理过程。",
+    "answer": "错误",
+    "analysis": "注意不是独立的心理过程，而是心理过程的共同特性，伴随各种心理过程存在。"
+  },
+  {
+    "type": 3,
+    "chapterId": 1,
+    "content": "感觉阈限越低，说明感受性越强。",
+    "answer": "正确",
+    "analysis": "感受性与感觉阈限成反比关系。感觉阈限越低，能感知到的刺激越弱，说明感受性越强。"
+  },
+  {
+    "type": 3,
+    "chapterId": 1,
+    "content": "前摄抑制是指后来学习的材料对回忆先前学习材料的干扰。",
+    "answer": "错误",
+    "analysis": "前摄抑制（proactive inhibition）是先前学习的材料对回忆后来学习材料的干扰。后来的材料对先前的干扰是倒摄抑制（retroactive inhibition）。"
+  },
+  {
+    "type": 1,
+    "chapterId": 1,
+    "content": "需要是？",
+    "answer": "A",
+    "options": [
+      {
+        "label": "A",
+        "content": "人对内外环境的要求在头脑中的反映"
+      },
+      {
+        "label": "B",
+        "content": "人脑对客观事物的反映"
+      },
+      {
+        "label": "C",
+        "content": "人对世界的看法"
+      },
+      {
+        "label": "D",
+        "content": "人对刺激的反应"
+      }
+    ],
+    "analysis": "需要是有机体内部不平衡状态，反映有机体对内外环境条件的需要。"
+  },
+  {
+    "type": 1,
+    "chapterId": 1,
+    "content": "马斯洛需要层次理论中，最高层次的需要是？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "尊重需要"
+      },
+      {
+        "label": "B",
+        "content": "归属与爱的需要"
+      },
+      {
+        "label": "C",
+        "content": "安全需要"
+      },
+      {
+        "label": "D",
+        "content": "自我实现需要"
+      }
+    ],
+    "analysis": "马斯洛将需要从低到高分为五个层次：生理→安全→归属与爱→尊重→自我实现。"
+  },
+  {
+    "type": 1,
+    "chapterId": 1,
+    "content": "以下哪种气质类型被认为是多血质？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "安静稳重、反应缓慢"
+      },
+      {
+        "label": "B",
+        "content": "敏感多虑、优柔寡断"
+      },
+      {
+        "label": "C",
+        "content": "活泼好动、善于交际"
+      },
+      {
+        "label": "D",
+        "content": "急躁冲动、情绪外露"
+      }
+    ],
+    "analysis": "多血质（sanguine）的特点：活泼好动、反应迅速、善于交际、兴趣易变。A黏液质，B抑郁质，D胆汁质。"
+  },
+  {
+    "type": 1,
+    "chapterId": 1,
+    "content": "人脑对客观事物间接的、概括的反映是？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "感觉"
+      },
+      {
+        "label": "B",
+        "content": "知觉"
+      },
+      {
+        "label": "C",
+        "content": "思维"
+      },
+      {
+        "label": "D",
+        "content": "记忆"
+      }
+    ],
+    "analysis": "思维是人脑对客观事物间接的、概括的反映，是认识的高级阶段。"
+  },
+  {
+    "type": 3,
+    "chapterId": 1,
+    "content": "性格无好坏之分，但气质有好坏之分。",
+    "answer": "错误",
+    "analysis": "气质无好坏之分，每种气质类型各有积极和消极方面。性格有好坏之分，反映了人的社会属性。"
+  },
+  {
+    "type": 3,
+    "chapterId": 1,
+    "content": "在马斯洛需要层次理论中，安全需要是最基本的需要。",
+    "answer": "错误",
+    "analysis": "生理需要是最基本的需要，安全需要是第二层次。"
+  },
+  {
+    "type": 1,
+    "chapterId": 2,
+    "content": "社会心理学的研究对象是？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "个体心理过程"
+      },
+      {
+        "label": "B",
+        "content": "社会情境中个体和群体的心理与行为"
+      },
+      {
+        "label": "C",
+        "content": "群体发展规律"
+      },
+      {
+        "label": "D",
+        "content": "社会制度演变"
+      }
+    ],
+    "analysis": "社会心理学研究社会情境中个体和群体的心理与行为规律。"
+  },
+  {
+    "type": 1,
+    "chapterId": 2,
+    "content": "\"以己度人\"反映的是哪种社会心理现象？",
+    "answer": "A",
+    "options": [
+      {
+        "label": "A",
+        "content": "投射效应"
+      },
+      {
+        "label": "B",
+        "content": "首因效应"
+      },
+      {
+        "label": "C",
+        "content": "晕轮效应"
+      },
+      {
+        "label": "D",
+        "content": "刻板印象"
+      }
+    ],
+    "analysis": "投射效应是指个体将自己的特质、情感归因于他人的现象。\"以己度人\"是典型的投射效应。"
+  },
+  {
+    "type": 1,
+    "chapterId": 2,
+    "content": "关于从众行为，以下说法正确的是？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "群体规模越大从众率越高"
+      },
+      {
+        "label": "B",
+        "content": "女性的从众性比男性高"
+      },
+      {
+        "label": "C",
+        "content": "3-4人时从众率最高，再增加效果减弱"
+      },
+      {
+        "label": "D",
+        "content": "从众行为都是消极的"
+      }
+    ],
+    "analysis": "Asch研究发现，3-4人时从众率最高，继续增加群体规模从众率不再明显增加。"
+  },
+  {
+    "type": 1,
+    "chapterId": 2,
+    "content": "\"情人眼里出西施\"反映了哪种认知偏差？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "首因效应"
+      },
+      {
+        "label": "B",
+        "content": "近因效应"
+      },
+      {
+        "label": "C",
+        "content": "晕轮效应"
+      },
+      {
+        "label": "D",
+        "content": "刻板印象"
+      }
+    ],
+    "analysis": "晕轮效应（halo effect）是指对某人的某一特征形成好印象后，倾向于以此推论其他特征。"
+  },
+  {
+    "type": 1,
+    "chapterId": 2,
+    "content": "影响人际吸引的核心因素是？",
+    "answer": "A",
+    "options": [
+      {
+        "label": "A",
+        "content": "相似性"
+      },
+      {
+        "label": "B",
+        "content": "互补性"
+      },
+      {
+        "label": "C",
+        "content": "外貌吸引力"
+      },
+      {
+        "label": "D",
+        "content": "邻近性"
+      }
+    ],
+    "analysis": "研究表明，相似性是影响人际吸引的最核心因素，态度、价值观的相似尤其重要。"
+  },
+  {
+    "type": 1,
+    "chapterId": 2,
+    "content": "哪种归因风格说明个体倾向于把成功归因于内部因素？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "基本归因错误"
+      },
+      {
+        "label": "B",
+        "content": "自利偏差"
+      },
+      {
+        "label": "C",
+        "content": "行动者-观察者偏差"
+      },
+      {
+        "label": "D",
+        "content": "虚假一致性"
+      }
+    ],
+    "analysis": "自利偏差（self-serving bias）指个体倾向于将成功归因于自身能力等内部因素，而将失败归因于外部因素。"
+  },
+  {
+    "type": 1,
+    "chapterId": 2,
+    "content": "社会化的核心机制是？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "遗传"
+      },
+      {
+        "label": "B",
+        "content": "教育"
+      },
+      {
+        "label": "C",
+        "content": "同伴影响"
+      },
+      {
+        "label": "D",
+        "content": "内化"
+      }
+    ],
+    "analysis": "内化（internalization）是社会化的核心机制，指个体将社会规范、价值观转化为自身行为准则的过程。"
+  },
+  {
+    "type": 1,
+    "chapterId": 2,
+    "content": "态度改变的三阶段理论中，最内化的阶段是？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "服从"
+      },
+      {
+        "label": "B",
+        "content": "认同"
+      },
+      {
+        "label": "C",
+        "content": "内化"
+      },
+      {
+        "label": "D",
+        "content": "从众"
+      }
+    ],
+    "analysis": "Kelman提出态度改变三阶段：服从（compliance）→认同（identification）→内化（internalization）。"
+  },
+  {
+    "type": 1,
+    "chapterId": 2,
+    "content": "群体动力学的创始人是？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "F. Allport"
+      },
+      {
+        "label": "B",
+        "content": "S. Asch"
+      },
+      {
+        "label": "C",
+        "content": "S. Milgram"
+      },
+      {
+        "label": "D",
+        "content": "K. Lewin"
+      }
+    ],
+    "analysis": "群体动力学（group dynamics）由德国心理学家勒温（Kurt Lewin）创立。"
+  },
+  {
+    "type": 2,
+    "chapterId": 2,
+    "content": "以下属于社会促进现象的有？",
+    "answer": "A,C",
+    "options": [
+      {
+        "label": "A",
+        "content": "他人在场提高简单任务的完成速度"
+      },
+      {
+        "label": "B",
+        "content": "多人一起工作时个体偷懒"
+      },
+      {
+        "label": "C",
+        "content": "有人旁观时自行车手骑得更快"
+      },
+      {
+        "label": "D",
+        "content": "紧急事件中旁观者越多施救越少"
+      }
+    ],
+    "analysis": "社会促进（social facilitation）指他人在场提高个体作业水平。B是社会惰化，D是旁观者效应。"
+  },
+  {
+    "type": 2,
+    "chapterId": 2,
+    "content": "影响从众的因素包括？",
+    "answer": "A,B,D",
+    "options": [
+      {
+        "label": "A",
+        "content": "群体规模"
+      },
+      {
+        "label": "B",
+        "content": "群体一致性"
+      },
+      {
+        "label": "C",
+        "content": "任务难度"
+      },
+      {
+        "label": "D",
+        "content": "个体自信心"
+      }
+    ],
+    "analysis": "群体规模（3-4人最佳）、群体一致性（出现异议者大幅降低从众）、个体自信心是影响从众的主要因素。"
+  },
+  {
+    "type": 3,
+    "chapterId": 2,
+    "content": "首因效应是指最近获得的信息对印象形成的影响更大。",
+    "answer": "错误",
+    "analysis": "首因效应（primacy effect）是最初获得的信息对印象形成的影响更大。最近信息影响更大的是近因效应（recency effect）。"
+  },
+  {
+    "type": 3,
+    "chapterId": 2,
+    "content": "旁观者效应是指他人在场会减少个体提供帮助的可能性。",
+    "answer": "正确",
+    "analysis": "旁观者效应（bystander effect）指在紧急事件中，有其他人在场时个体提供帮助的可能性降低，且人数越多可能性越低。"
+  },
+  {
+    "type": 1,
+    "chapterId": 2,
+    "content": "利他行为的特点不包括？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "自愿性"
+      },
+      {
+        "label": "B",
+        "content": "有益他人"
+      },
+      {
+        "label": "C",
+        "content": "不求回报"
+      },
+      {
+        "label": "D",
+        "content": "有明确动机"
+      }
+    ],
+    "analysis": "利他行为的核心特征：自愿、有益他人、不求回报。有利他者可能自己都意识不到动机。"
+  },
+  {
+    "type": 1,
+    "chapterId": 2,
+    "content": "哪一种人际关系阶段是个体开始接纳对方进入自己的私人空间？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "定向阶段"
+      },
+      {
+        "label": "B",
+        "content": "情感探索阶段"
+      },
+      {
+        "label": "C",
+        "content": "情感交流阶段"
+      },
+      {
+        "label": "D",
+        "content": "稳定交往阶段"
+      }
+    ],
+    "analysis": "Levinger人际关系发展五阶段：陌生→定向→情感探索→情感交流→稳定。"
+  },
+  {
+    "type": 3,
+    "chapterId": 2,
+    "content": "性别角色社会化中，男性被鼓励发展的是工具性特质，女性被鼓励发展的是表达性特质。",
+    "answer": "正确",
+    "analysis": "传统性别角色社会化中，男性被鼓励发展独立、果断等工具性特质；女性被鼓励发展温柔、善解人意等表达性特质。"
+  },
+  {
+    "type": 1,
+    "chapterId": 3,
+    "content": "发展心理学研究的主体是？",
+    "answer": "A",
+    "options": [
+      {
+        "label": "A",
+        "content": "人从出生到衰老的心理发展过程"
+      },
+      {
+        "label": "B",
+        "content": "儿童的认知发展"
+      },
+      {
+        "label": "C",
+        "content": "青少年的心理发展"
+      },
+      {
+        "label": "D",
+        "content": "老年人心理"
+      }
+    ],
+    "analysis": "发展心理学研究人从出生到死亡（毕生）的心理发展过程和规律。"
+  },
+  {
+    "type": 1,
+    "chapterId": 3,
+    "content": "皮亚杰认知发展理论中，感知运动阶段（0-2岁）的核心成就是？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "守恒概念"
+      },
+      {
+        "label": "B",
+        "content": "抽象逻辑思维"
+      },
+      {
+        "label": "C",
+        "content": "观点采择"
+      },
+      {
+        "label": "D",
+        "content": "客体永久性"
+      }
+    ],
+    "analysis": "客体永久性（object permanence）是感知运动阶段的核心成就，儿童知道物体即使看不见也存在。"
+  },
+  {
+    "type": 1,
+    "chapterId": 3,
+    "content": "皮亚杰认为7-11岁儿童处于哪个认知发展阶段？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "前运算阶段"
+      },
+      {
+        "label": "B",
+        "content": "具体运算阶段"
+      },
+      {
+        "label": "C",
+        "content": "形式运算阶段"
+      },
+      {
+        "label": "D",
+        "content": "感知运动阶段"
+      }
+    ],
+    "analysis": "具体运算阶段（7-11岁）：获得守恒概念、可进行逻辑思维但需具体事物支持。"
+  },
+  {
+    "type": 1,
+    "chapterId": 3,
+    "content": "婴幼儿期（0-1岁）最关键的亲子关系任务是？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "语言训练"
+      },
+      {
+        "label": "B",
+        "content": "建立安全型依恋"
+      },
+      {
+        "label": "C",
+        "content": "排便训练"
+      },
+      {
+        "label": "D",
+        "content": "早期教育"
+      }
+    ],
+    "analysis": "奥地利动物学家Lorenz提出印刻（imprinting）现象；Bowlby依恋理论强调婴幼儿期建立安全型依恋是关键。"
+  },
+  {
+    "type": 1,
+    "chapterId": 3,
+    "content": "埃里克森认为中年期的主要心理发展任务是？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "建立亲密关系 vs 孤独"
+      },
+      {
+        "label": "B",
+        "content": "建立自我同一性 vs 角色混乱"
+      },
+      {
+        "label": "C",
+        "content": "繁衍感 vs 停滞感"
+      },
+      {
+        "label": "D",
+        "content": "自我整合 vs 绝望"
+      }
+    ],
+    "analysis": "埃里克森八阶段理论中，中年期（25-50岁）的发展危机是繁衍感 vs 停滞感。"
+  },
+  {
+    "type": 1,
+    "chapterId": 3,
+    "content": "下列哪项不属于维果茨基的理论概念？",
+    "answer": "A",
+    "options": [
+      {
+        "label": "A",
+        "content": "同化和顺应"
+      },
+      {
+        "label": "B",
+        "content": "最近发展区"
+      },
+      {
+        "label": "C",
+        "content": "脚手架"
+      },
+      {
+        "label": "D",
+        "content": "内化"
+      }
+    ],
+    "analysis": "同化和顺应是皮亚杰的概念。最近发展区、脚手架和内化是维果茨基社会文化理论的核心概念。"
+  },
+  {
+    "type": 1,
+    "chapterId": 3,
+    "content": "\"三翻六坐七滚八爬\"反映的是？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "认知发展规律"
+      },
+      {
+        "label": "B",
+        "content": "语言发展规律"
+      },
+      {
+        "label": "C",
+        "content": "社会性发展规律"
+      },
+      {
+        "label": "D",
+        "content": "动作发展规律"
+      }
+    ],
+    "analysis": "这句俗语描述了婴儿大运动发展的顺序：三个月翻身、六个月坐起、七个月翻滚、八个月爬行。"
+  },
+  {
+    "type": 1,
+    "chapterId": 3,
+    "content": "婴儿开始出现\"陌生人焦虑\"大约在？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "1-2个月"
+      },
+      {
+        "label": "B",
+        "content": "3-4个月"
+      },
+      {
+        "label": "C",
+        "content": "6-8个月"
+      },
+      {
+        "label": "D",
+        "content": "12-15个月"
+      }
+    ],
+    "analysis": "婴儿约在6-8个月时开始出现陌生人焦虑（stranger anxiety），对不熟悉的人产生恐惧和回避。"
+  },
+  {
+    "type": 1,
+    "chapterId": 3,
+    "content": "科尔伯格的道德发展理论中，\"好孩子定向\"属于哪个水平？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "前习俗水平"
+      },
+      {
+        "label": "B",
+        "content": "习俗水平"
+      },
+      {
+        "label": "C",
+        "content": "后习俗水平"
+      },
+      {
+        "label": "D",
+        "content": "超习俗水平"
+      }
+    ],
+    "analysis": "科尔伯格三水平六阶段：前习俗（惩罚服从→相对功利）→习俗（好孩子→维护权威）→后习俗（社会契约→普遍伦理）。"
+  },
+  {
+    "type": 2,
+    "chapterId": 3,
+    "content": "以下属于皮亚杰认知发展阶段的有？",
+    "answer": "A,B,C,D",
+    "options": [
+      {
+        "label": "A",
+        "content": "感知运动阶段"
+      },
+      {
+        "label": "B",
+        "content": "前运算阶段"
+      },
+      {
+        "label": "C",
+        "content": "具体运算阶段"
+      },
+      {
+        "label": "D",
+        "content": "形式运算阶段"
+      }
+    ],
+    "analysis": "皮亚杰将认知发展分为四个阶段：感知运动（0-2）、前运算（2-7）、具体运算（7-11）、形式运算（11岁以上）。"
+  },
+  {
+    "type": 2,
+    "chapterId": 3,
+    "content": "依恋类型包括？",
+    "answer": "A,B,C",
+    "options": [
+      {
+        "label": "A",
+        "content": "安全型依恋"
+      },
+      {
+        "label": "B",
+        "content": "回避型依恋"
+      },
+      {
+        "label": "C",
+        "content": "矛盾型依恋"
+      },
+      {
+        "label": "D",
+        "content": "依赖型依恋"
+      }
+    ],
+    "analysis": "Ainsworth陌生情境实验将依恋分为安全型、回避型和矛盾型（反抗型）三种。"
+  },
+  {
+    "type": 3,
+    "chapterId": 3,
+    "content": "皮亚杰认为儿童的认知发展是被动接受环境刺激的结果。",
+    "answer": "错误",
+    "analysis": "皮亚杰强调儿童是主动的认知建构者，通过同化和顺应与环境的互动建构认知结构。"
+  },
+  {
+    "type": 3,
+    "chapterId": 3,
+    "content": "语言发展的先天因素理论代表人物是乔姆斯基（Chomsky），他提出了先天语言能力说。",
+    "answer": "正确",
+    "analysis": "乔姆斯基提出人具有先天的语言获得装置（LAD），强调语言发展的生物学基础。"
+  },
+  {
+    "type": 1,
+    "chapterId": 3,
+    "content": "青春期最主要的心理发展任务是？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "语言能力发展"
+      },
+      {
+        "label": "B",
+        "content": "动作技能发展"
+      },
+      {
+        "label": "C",
+        "content": "自我同一性建立"
+      },
+      {
+        "label": "D",
+        "content": "道德推理能力发展"
+      }
+    ],
+    "analysis": "埃里克森认为青春期（12-18岁）的核心任务是建立自我同一性（identity），否则会面临角色混乱。"
+  },
+  {
+    "type": 1,
+    "chapterId": 3,
+    "content": "\"狼孩\"事例说明人类心理发展具有？",
+    "answer": "A",
+    "options": [
+      {
+        "label": "A",
+        "content": "关键期"
+      },
+      {
+        "label": "B",
+        "content": "敏感期"
+      },
+      {
+        "label": "C",
+        "content": "最近发展区"
+      },
+      {
+        "label": "D",
+        "content": "成熟准备"
+      }
+    ],
+    "analysis": "关键期（critical period）指个体发展过程中某些能力形成的最佳时期。狼孩错过语言关键期后难以弥补。"
+  },
+  {
+    "type": 1,
+    "chapterId": 4,
+    "content": "心理健康的标准不包括？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "智力正常"
+      },
+      {
+        "label": "B",
+        "content": "情绪健康"
+      },
+      {
+        "label": "C",
+        "content": "意志健全"
+      },
+      {
+        "label": "D",
+        "content": "不生病"
+      }
+    ],
+    "analysis": "心理健康标准包括：智力正常、情绪健康、意志健全、人格完整、自我评价正确、人际关系和谐等。"
+  },
+  {
+    "type": 1,
+    "chapterId": 4,
+    "content": "哪项不属于焦虑障碍？",
+    "answer": "A",
+    "options": [
+      {
+        "label": "A",
+        "content": "双相障碍"
+      },
+      {
+        "label": "B",
+        "content": "广泛性焦虑障碍"
+      },
+      {
+        "label": "C",
+        "content": "惊恐障碍"
+      },
+      {
+        "label": "D",
+        "content": "广场恐惧症"
+      }
+    ],
+    "analysis": "双相障碍属于心境障碍（情感障碍），不属于焦虑障碍。广泛性焦虑、惊恐障碍、广场恐惧症均属焦虑障碍。"
+  },
+  {
+    "type": 1,
+    "chapterId": 4,
+    "content": "抑郁症的核心症状是？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "幻觉妄想"
+      },
+      {
+        "label": "B",
+        "content": "持续的情绪低落和兴趣丧失"
+      },
+      {
+        "label": "C",
+        "content": "言语增多"
+      },
+      {
+        "label": "D",
+        "content": "精力充沛"
+      }
+    ],
+    "analysis": "抑郁症的核心症状为：持续2周以上的情绪低落、兴趣缺乏（快感缺失）、精力减退。"
+  },
+  {
+    "type": 1,
+    "chapterId": 4,
+    "content": "精神分裂症最常见的是哪种类型？",
+    "answer": "A",
+    "options": [
+      {
+        "label": "A",
+        "content": "偏执型"
+      },
+      {
+        "label": "B",
+        "content": "青春型"
+      },
+      {
+        "label": "C",
+        "content": "紧张型"
+      },
+      {
+        "label": "D",
+        "content": "单纯型"
+      }
+    ],
+    "analysis": "偏执型（妄想型）精神分裂症是最常见的类型，以妄想和幻觉为主要表现。"
+  },
+  {
+    "type": 1,
+    "chapterId": 4,
+    "content": "下列哪种不属于人格障碍？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "反社会型人格障碍"
+      },
+      {
+        "label": "B",
+        "content": "边缘型人格障碍"
+      },
+      {
+        "label": "C",
+        "content": "精神分裂症"
+      },
+      {
+        "label": "D",
+        "content": "强迫型人格障碍"
+      }
+    ],
+    "analysis": "精神分裂症属于精神病性障碍，不属于人格障碍。人格障碍是持续稳定的异常行为模式。"
+  },
+  {
+    "type": 1,
+    "chapterId": 4,
+    "content": "DSM-5中哪个障碍被归类在\"创伤与应激相关障碍\"下？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "广泛性焦虑障碍"
+      },
+      {
+        "label": "B",
+        "content": "惊恐障碍"
+      },
+      {
+        "label": "C",
+        "content": "创伤后应激障碍（PTSD）"
+      },
+      {
+        "label": "D",
+        "content": "社交焦虑障碍"
+      }
+    ],
+    "analysis": "PTSD在DSM-5中被归为创伤与应激相关障碍，其核心症状包括侵入性回忆、回避、负性认知和过度警觉。"
+  },
+  {
+    "type": 1,
+    "chapterId": 4,
+    "content": "区分心理正常与异常的心理学原则是？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "以症状自评量表得分为标准"
+      },
+      {
+        "label": "B",
+        "content": "主观世界与客观世界的统一性原则"
+      },
+      {
+        "label": "C",
+        "content": "以个人主观体验为标准"
+      },
+      {
+        "label": "D",
+        "content": "以社会规范为标准"
+      }
+    ],
+    "analysis": "郭念锋提出心理正常与异常三原则：主观世界与客观世界统一性、心理活动的内在协调性、人格的相对稳定性。"
+  },
+  {
+    "type": 1,
+    "chapterId": 4,
+    "content": "躯体形式障碍的特点是？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "有明确的器质性病变"
+      },
+      {
+        "label": "B",
+        "content": "故意伪装症状"
+      },
+      {
+        "label": "C",
+        "content": "存在躯体症状但无相应器质性病变"
+      },
+      {
+        "label": "D",
+        "content": "症状可通过实验室检查证实"
+      }
+    ],
+    "analysis": "躯体形式障碍的特征：患者有躯体症状，但医学检查不能发现相应的器质性病变。"
+  },
+  {
+    "type": 1,
+    "chapterId": 4,
+    "content": "神经症与重性精神病的关键区别在于？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "痛苦程度不同"
+      },
+      {
+        "label": "B",
+        "content": "是否具有自知力"
+      },
+      {
+        "label": "C",
+        "content": "病程长短不同"
+      },
+      {
+        "label": "D",
+        "content": "发病年龄不同"
+      }
+    ],
+    "analysis": "神经症患者有自知力（知道自己不正常并感到痛苦），重性精神病患者通常自知力缺乏。"
+  },
+  {
+    "type": 2,
+    "chapterId": 4,
+    "content": "以下属于心境障碍的有？",
+    "answer": "A,B,D",
+    "options": [
+      {
+        "label": "A",
+        "content": "抑郁症"
+      },
+      {
+        "label": "B",
+        "content": "双相障碍"
+      },
+      {
+        "label": "C",
+        "content": "惊恐障碍"
+      },
+      {
+        "label": "D",
+        "content": "持续性心境障碍"
+      }
+    ],
+    "analysis": "心境障碍包括抑郁症、双相障碍、持续性心境障碍（恶劣心境等）。惊恐障碍属于焦虑障碍。"
+  },
+  {
+    "type": 2,
+    "chapterId": 4,
+    "content": "创伤后应激障碍（PTSD）的核心症状包括？",
+    "answer": "A,B,D",
+    "options": [
+      {
+        "label": "A",
+        "content": "闯入性记忆（闪回）"
+      },
+      {
+        "label": "B",
+        "content": "对创伤相关刺激的回避"
+      },
+      {
+        "label": "C",
+        "content": "注意力过度集中"
+      },
+      {
+        "label": "D",
+        "content": "过度警觉"
+      }
+    ],
+    "analysis": "PTSD核心症状群：再体验（闯入性记忆/闪回）、回避、认知和情绪的负性改变、过度警觉。"
+  },
+  {
+    "type": 3,
+    "chapterId": 4,
+    "content": "反社会型人格障碍通常在儿童期即可观察到品行障碍的表现。",
+    "answer": "正确",
+    "analysis": "反社会型人格障碍的诊断标准之一是15岁前有品行障碍的证据，如攻击人畜、破坏财物、欺诈、偷窃等。"
+  },
+  {
+    "type": 3,
+    "chapterId": 4,
+    "content": "一般心理问题中，不良情绪反应通常持续1个月以上。",
+    "answer": "错误",
+    "analysis": "一般心理问题的不良情绪反应通常在1个月内。持续1-2个月为严重心理问题，超过2个月可能需要鉴别是否为神经症。"
+  },
+  {
+    "type": 1,
+    "chapterId": 5,
+    "content": "心理测量的本质是？",
+    "answer": "A",
+    "options": [
+      {
+        "label": "A",
+        "content": "对心理属性的定量测量"
+      },
+      {
+        "label": "B",
+        "content": "对智力的精确测量"
+      },
+      {
+        "label": "C",
+        "content": "对行为的定性分析"
+      },
+      {
+        "label": "D",
+        "content": "对潜意识的探测"
+      }
+    ],
+    "analysis": "心理测量是通过标准化的测验对个体的心理属性进行定量描述的过程。"
+  },
+  {
+    "type": 1,
+    "chapterId": 5,
+    "content": "信度指的是？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "测量工具的有效性"
+      },
+      {
+        "label": "B",
+        "content": "测量结果的稳定性和一致性"
+      },
+      {
+        "label": "C",
+        "content": "测量工具的标准化程度"
+      },
+      {
+        "label": "D",
+        "content": "测量内容的覆盖面"
+      }
+    ],
+    "analysis": "信度（reliability）指测量结果的稳定性、一致性和可靠性，即测量误差的大小。"
+  },
+  {
+    "type": 1,
+    "chapterId": 5,
+    "content": "效度指的是？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "测量结果的一致性"
+      },
+      {
+        "label": "B",
+        "content": "测量结果的稳定性"
+      },
+      {
+        "label": "C",
+        "content": "测量工具测出所要测量特质的程度"
+      },
+      {
+        "label": "D",
+        "content": "评分者之间的一致性"
+      }
+    ],
+    "analysis": "效度（validity）指测量工具能够准确地测出其所要测量特质的程度，解决\"测的是否是想要测的\"问题。"
+  },
+  {
+    "type": 1,
+    "chapterId": 5,
+    "content": "常模团体的定义是？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "接受测验的所有个体"
+      },
+      {
+        "label": "B",
+        "content": "测验分数最高的群体"
+      },
+      {
+        "label": "C",
+        "content": "测验开发团队"
+      },
+      {
+        "label": "D",
+        "content": "具有代表性的一组测验被试"
+      }
+    ],
+    "analysis": "常模团体是指具有代表性的一组被试，其测验结果为制定常模提供标准。"
+  },
+  {
+    "type": 1,
+    "chapterId": 5,
+    "content": "项目难度通常用什么指标表示？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "标准差"
+      },
+      {
+        "label": "B",
+        "content": "相关系数"
+      },
+      {
+        "label": "C",
+        "content": "克伦巴赫α系数"
+      },
+      {
+        "label": "D",
+        "content": "通过率（P值）"
+      }
+    ],
+    "analysis": "项目难度一般用通过率（P值）表示，P=答对人数/总人数×100%。P值越高难度越低。"
+  },
+  {
+    "type": 1,
+    "chapterId": 5,
+    "content": "区分度是指？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "测验题目难易程度"
+      },
+      {
+        "label": "B",
+        "content": "测验分数的分散程度"
+      },
+      {
+        "label": "C",
+        "content": "测验题目对不同水平被试的鉴别能力"
+      },
+      {
+        "label": "D",
+        "content": "测验题目之间的相关程度"
+      }
+    ],
+    "analysis": "区分度（discrimination）指测验题目能够区分不同水平被试的能力，是评价题目质量的重要指标。"
+  },
+  {
+    "type": 1,
+    "chapterId": 5,
+    "content": "重测信度反映的是？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "不同评分者之间的一致性"
+      },
+      {
+        "label": "B",
+        "content": "同一测验在不同时间的稳定性"
+      },
+      {
+        "label": "C",
+        "content": "测验内部各题目之间的同质性"
+      },
+      {
+        "label": "D",
+        "content": "测验与平行版本间的一致性"
+      }
+    ],
+    "analysis": "重测信度（test-retest reliability）测量同一测验在不同时间点施测结果的一致性，反映时间稳定性。"
+  },
+  {
+    "type": 1,
+    "chapterId": 5,
+    "content": "标准九分数（stanine）的均值和标准差是？",
+    "answer": "A",
+    "options": [
+      {
+        "label": "A",
+        "content": "均值5，标准差2"
+      },
+      {
+        "label": "B",
+        "content": "均值10，标准差3"
+      },
+      {
+        "label": "C",
+        "content": "均值100，标准差15"
+      },
+      {
+        "label": "D",
+        "content": "均值50，标准差10"
+      }
+    ],
+    "analysis": "标准九分数是将原始分划分为9个等级，均值5，标准差2。常用于教育测验。"
+  },
+  {
+    "type": 1,
+    "chapterId": 5,
+    "content": "下面哪个量表不是智力测验？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "韦氏儿童智力量表（WISC）"
+      },
+      {
+        "label": "B",
+        "content": "斯坦福-比内量表"
+      },
+      {
+        "label": "C",
+        "content": "明尼苏达多相人格问卷（MMPI）"
+      },
+      {
+        "label": "D",
+        "content": "瑞文推理测验"
+      }
+    ],
+    "analysis": "MMPI是人格测验，不是智力测验。韦氏、比内、瑞文均为智力测验。"
+  },
+  {
+    "type": 2,
+    "chapterId": 5,
+    "content": "以下关于信度和效度的关系说法正确的有？",
+    "answer": "A,B,D",
+    "options": [
+      {
+        "label": "A",
+        "content": "信度高效度不一定高"
+      },
+      {
+        "label": "B",
+        "content": "效度高信度一定高"
+      },
+      {
+        "label": "C",
+        "content": "信度高效度一定高"
+      },
+      {
+        "label": "D",
+        "content": "信度是效度的必要条件"
+      }
+    ],
+    "analysis": "信度是效度的必要条件而非充分条件。信度可高效度低（稳定地测量了错误的内容），但效度高的测验必须信度高。"
+  },
+  {
+    "type": 2,
+    "chapterId": 5,
+    "content": "常见的效度类型包括？",
+    "answer": "A,B,C",
+    "options": [
+      {
+        "label": "A",
+        "content": "内容效度"
+      },
+      {
+        "label": "B",
+        "content": "效标效度"
+      },
+      {
+        "label": "C",
+        "content": "构想效度"
+      },
+      {
+        "label": "D",
+        "content": "重测效度"
+      }
+    ],
+    "analysis": "效度三类：内容效度（内容覆盖面）、效标效度（与外部标准的相关性）、构想效度（对理论构想的验证）。重测属于信度。"
+  },
+  {
+    "type": 3,
+    "chapterId": 5,
+    "content": "项目的难度P值越大，表示题目越难。",
+    "answer": "错误",
+    "analysis": "P值（通过率）越大表示题目越简单。P值=答对人数/总人数，P值越大说明答对的人越多。"
+  },
+  {
+    "type": 3,
+    "chapterId": 5,
+    "content": "心理测量中，T分数的均值为50，标准差为10。",
+    "answer": "正确",
+    "analysis": "T分数是一种标准分数，均值为50，标准差为10。公式为 T=50+10×Z。"
+  },
+  {
+    "type": 1,
+    "chapterId": 6,
+    "content": "心理咨询的基本原则中最重要的是？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "启发原则"
+      },
+      {
+        "label": "B",
+        "content": "保密原则"
+      },
+      {
+        "label": "C",
+        "content": "价值中立原则"
+      },
+      {
+        "label": "D",
+        "content": "灵活性原则"
+      }
+    ],
+    "analysis": "价值中立原则是心理咨询的核心原则，要求咨询师不把自己的价值观强加给来访者。保密原则也是重要原则之一。"
+  },
+  {
+    "type": 1,
+    "chapterId": 6,
+    "content": "心理咨询之父是？",
+    "answer": "A",
+    "options": [
+      {
+        "label": "A",
+        "content": "弗洛伊德"
+      },
+      {
+        "label": "B",
+        "content": "罗杰斯"
+      },
+      {
+        "label": "C",
+        "content": "华生"
+      },
+      {
+        "label": "D",
+        "content": "斯金纳"
+      }
+    ],
+    "analysis": "弗洛伊德（Sigmund Freud）创立了精神分析学派，被认为是心理咨询与治疗的先驱和奠基人。"
+  },
+  {
+    "type": 1,
+    "chapterId": 6,
+    "content": "人本主义心理治疗的代表人物是？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "弗洛伊德"
+      },
+      {
+        "label": "B",
+        "content": "贝克"
+      },
+      {
+        "label": "C",
+        "content": "埃利斯"
+      },
+      {
+        "label": "D",
+        "content": "罗杰斯"
+      }
+    ],
+    "analysis": "罗杰斯（Carl Rogers）创立了以人为中心疗法（person-centered therapy），是人本主义心理治疗的代表。"
+  },
+  {
+    "type": 1,
+    "chapterId": 6,
+    "content": "合理情绪疗法的创始人是？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "弗洛伊德"
+      },
+      {
+        "label": "B",
+        "content": "贝克"
+      },
+      {
+        "label": "C",
+        "content": "埃利斯"
+      },
+      {
+        "label": "D",
+        "content": "沃尔普"
+      }
+    ],
+    "analysis": "埃利斯（Albert Ellis）创立了理性情绪行为疗法（REBT），核心是ABC理论：A事件→B信念→C情绪行为结果。"
+  },
+  {
+    "type": 1,
+    "chapterId": 6,
+    "content": "心理咨询中，共情的含义是？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "同情来访者的遭遇"
+      },
+      {
+        "label": "B",
+        "content": "体验来访者内心世界并反馈理解"
+      },
+      {
+        "label": "C",
+        "content": "认同来访者的观点"
+      },
+      {
+        "label": "D",
+        "content": "对来访者进行情感支持"
+      }
+    ],
+    "analysis": "共情（empathy）是心理咨询的核心技术，指咨询师深入体验来访者的主观世界并传达理解。"
+  },
+  {
+    "type": 1,
+    "chapterId": 6,
+    "content": "心理咨询关系建立的核心要素不包括？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "尊重"
+      },
+      {
+        "label": "B",
+        "content": "真诚"
+      },
+      {
+        "label": "C",
+        "content": "积极关注"
+      },
+      {
+        "label": "D",
+        "content": "权威"
+      }
+    ],
+    "analysis": "罗杰斯提出咨询关系三要素：真诚一致、无条件积极关注、共情理解。权威不是咨询关系的核心要素。"
+  },
+  {
+    "type": 1,
+    "chapterId": 6,
+    "content": "系统脱敏法主要用于治疗？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "抑郁症"
+      },
+      {
+        "label": "B",
+        "content": "精神分裂症"
+      },
+      {
+        "label": "C",
+        "content": "恐惧症"
+      },
+      {
+        "label": "D",
+        "content": "厌食症"
+      }
+    ],
+    "analysis": "系统脱敏法（systematic desensitization）由沃尔普（Wolpe）创立，是治疗恐惧症和焦虑症的行为疗法技术。"
+  },
+  {
+    "type": 1,
+    "chapterId": 6,
+    "content": "心理评估中，咨询性会谈的核心技术是？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "心理测验"
+      },
+      {
+        "label": "B",
+        "content": "行为观察"
+      },
+      {
+        "label": "C",
+        "content": "生理测量"
+      },
+      {
+        "label": "D",
+        "content": "访谈技术"
+      }
+    ],
+    "analysis": "访谈技术是心理咨询评估的核心技术，包括倾听、提问、澄清、面质等。"
+  },
+  {
+    "type": 2,
+    "chapterId": 6,
+    "content": "心理咨询的基本阶段包括？",
+    "answer": "A,B,C,D",
+    "options": [
+      {
+        "label": "A",
+        "content": "建立咨询关系"
+      },
+      {
+        "label": "B",
+        "content": "收集信息与评估"
+      },
+      {
+        "label": "C",
+        "content": "确定咨询目标"
+      },
+      {
+        "label": "D",
+        "content": "实施干预与结束"
+      }
+    ],
+    "analysis": "心理咨询的基本阶段包括：建立关系→信息收集与评估→确定目标→干预实施→评估与结束。"
+  },
+  {
+    "type": 2,
+    "chapterId": 6,
+    "content": "以下属于行为疗法的技术有？",
+    "answer": "A,B,C",
+    "options": [
+      {
+        "label": "A",
+        "content": "系统脱敏"
+      },
+      {
+        "label": "B",
+        "content": "代币制"
+      },
+      {
+        "label": "C",
+        "content": "满灌疗法"
+      },
+      {
+        "label": "D",
+        "content": "自由联想"
+      }
+    ],
+    "analysis": "系统脱敏、代币制、满灌疗法（冲击疗法）均属于行为疗法技术。自由联想是精神分析的技术。"
+  },
+  {
+    "type": 3,
+    "chapterId": 6,
+    "content": "心理咨询的目标应该是咨询师为来访者设定的。",
+    "answer": "错误",
+    "analysis": "咨询目标应由咨询师和来访者共同商定，以来访者为主体，尊重来访者的意愿和价值观。"
+  },
+  {
+    "type": 3,
+    "chapterId": 6,
+    "content": "反移情是指咨询师将自己的情绪反应投射到来访者身上。",
+    "answer": "正确",
+    "analysis": "反移情（counter-transference）是咨询师对来访者的无意识情感反应，源于咨询师自身的未解决冲突。"
+  },
+  {
+    "type": 1,
+    "chapterId": 7,
+    "content": "初诊接待中，咨询师的首要任务是？",
+    "answer": "A",
+    "options": [
+      {
+        "label": "A",
+        "content": "建立良好的咨询关系"
+      },
+      {
+        "label": "B",
+        "content": "进行心理测验"
+      },
+      {
+        "label": "C",
+        "content": "做出心理诊断"
+      },
+      {
+        "label": "D",
+        "content": "制定咨询方案"
+      }
+    ],
+    "analysis": "初诊接待的首要任务是建立良好的咨询关系。良好的关系是咨询成功的基础。"
+  },
+  {
+    "type": 1,
+    "chapterId": 7,
+    "content": "摄入性会谈的目的是？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "进行心理治疗"
+      },
+      {
+        "label": "B",
+        "content": "给予来访者建议"
+      },
+      {
+        "label": "C",
+        "content": "收集来访者的基本信息和问题"
+      },
+      {
+        "label": "D",
+        "content": "对来访者进行心理教育"
+      }
+    ],
+    "analysis": "摄入性会谈（intake interview）是咨询师首次接触来访者时以收集信息为目的的会谈。"
+  },
+  {
+    "type": 1,
+    "chapterId": 7,
+    "content": "在心理诊断中，区分\"一般心理问题\"和\"严重心理问题\"的关键是？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "来访者的文化程度"
+      },
+      {
+        "label": "B",
+        "content": "来访者的社会地位"
+      },
+      {
+        "label": "C",
+        "content": "症状的严重程度"
+      },
+      {
+        "label": "D",
+        "content": "不良情绪的持续时间以及是否泛化"
+      }
+    ],
+    "analysis": "一般心理问题：情绪反应在1个月内、未泛化。严重心理问题：情绪反应1-2个月、内容泛化、反应强度大。"
+  },
+  {
+    "type": 1,
+    "chapterId": 7,
+    "content": "诊断性会谈与咨询性会谈的主要区别在于？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "会谈时间长短"
+      },
+      {
+        "label": "B",
+        "content": "会谈地点选择"
+      },
+      {
+        "label": "C",
+        "content": "会谈目的是评估还是干预"
+      },
+      {
+        "label": "D",
+        "content": "咨询师的资格要求"
+      }
+    ],
+    "analysis": "诊断性会谈以评估问题为目的，咨询性会谈以解决问题（干预）为目的。"
+  },
+  {
+    "type": 1,
+    "chapterId": 7,
+    "content": "在心理评估中，观察法的优点不包括？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "可以获得第一手资料"
+      },
+      {
+        "label": "B",
+        "content": "标准化程度高"
+      },
+      {
+        "label": "C",
+        "content": "适用于不能言语的来访者"
+      },
+      {
+        "label": "D",
+        "content": "信息直观自然"
+      }
+    ],
+    "analysis": "观察法的缺点是标准化程度相对较低，受观察者主观因素影响较大。优点是直观、自然、第一手资料。"
+  },
+  {
+    "type": 1,
+    "chapterId": 7,
+    "content": "心理评估中，使用多个信息来源进行评估的原则称为？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "动态评估原则"
+      },
+      {
+        "label": "B",
+        "content": "保密原则"
+      },
+      {
+        "label": "C",
+        "content": "个别化原则"
+      },
+      {
+        "label": "D",
+        "content": "多渠道评估原则"
+      }
+    ],
+    "analysis": "多渠道评估原则（multi-source assessment）强调综合使用会谈、观察、测验、查阅记录等多种信息来源。"
+  },
+  {
+    "type": 1,
+    "chapterId": 7,
+    "content": "在诊断过程中，关键的一点是要区分？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "成人和儿童"
+      },
+      {
+        "label": "B",
+        "content": "心理正常与心理异常"
+      },
+      {
+        "label": "C",
+        "content": "男性和女性"
+      },
+      {
+        "label": "D",
+        "content": "城市和农村人口"
+      }
+    ],
+    "analysis": "心理诊断的首要任务是区分心理正常与心理异常，这是是否需要转诊精神科的关键判断。"
+  },
+  {
+    "type": 2,
+    "chapterId": 7,
+    "content": "心理评估的方法包括？",
+    "answer": "A,B,C,D",
+    "options": [
+      {
+        "label": "A",
+        "content": "会谈法"
+      },
+      {
+        "label": "B",
+        "content": "观察法"
+      },
+      {
+        "label": "C",
+        "content": "心理测验法"
+      },
+      {
+        "label": "D",
+        "content": "生物医学检查"
+      }
+    ],
+    "analysis": "心理评估的方法包括会谈、观察、心理测验和必要的生物医学检查。综合运用多种方法才能做出准确评估。"
+  },
+  {
+    "type": 3,
+    "chapterId": 7,
+    "content": "在心理咨询中，咨询师不应给来访者作诊断标签。",
+    "answer": "正确",
+    "analysis": "咨询师应避免给来访者贴诊断标签，以防产生标签效应。应关注问题行为而不是给人贴标签。"
+  },
+  {
+    "type": 3,
+    "chapterId": 7,
+    "content": "心理诊断只需要一次会谈即可完成。",
+    "answer": "错误",
+    "analysis": "心理诊断通常需要多次会谈，综合多方面信息，有时还需借助心理测验，不能仅凭一次会谈贸然下结论。"
+  },
+  {
+    "type": 1,
+    "chapterId": 8,
+    "content": "有效倾听的要点不包括？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "全神贯注"
+      },
+      {
+        "label": "B",
+        "content": "适当回应"
+      },
+      {
+        "label": "C",
+        "content": "不打断"
+      },
+      {
+        "label": "D",
+        "content": "立即给出建议"
+      }
+    ],
+    "analysis": "有效倾听的核心是理解来访者的言语和非言语信息，而不是急于给出建议或解决方案。"
+  },
+  {
+    "type": 1,
+    "chapterId": 8,
+    "content": "\"我理解你感到很沮丧\"属于哪种咨询技术？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "澄清"
+      },
+      {
+        "label": "B",
+        "content": "情感反映"
+      },
+      {
+        "label": "C",
+        "content": "面质"
+      },
+      {
+        "label": "D",
+        "content": "解释"
+      }
+    ],
+    "analysis": "情感反映（reflection of feeling）是指咨询师对来访者情感体验的反馈和理解。"
+  },
+  {
+    "type": 1,
+    "chapterId": 8,
+    "content": "咨询中，处理沉默的正确方式是？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "立即打破沉默"
+      },
+      {
+        "label": "B",
+        "content": "忽略沉默继续提问"
+      },
+      {
+        "label": "C",
+        "content": "批评来访者不配合"
+      },
+      {
+        "label": "D",
+        "content": "耐心等待并观察来访者"
+      }
+    ],
+    "analysis": "沉默有时有治疗价值。咨询师应耐心等待，观察来访者的非言语线索，判断沉默的原因后再决定如何应对。"
+  },
+  {
+    "type": 1,
+    "chapterId": 8,
+    "content": "面质技术通常用于？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "批评来访者的不良行为"
+      },
+      {
+        "label": "B",
+        "content": "显示咨询师的权威"
+      },
+      {
+        "label": "C",
+        "content": "指出来访者言行不一之处"
+      },
+      {
+        "label": "D",
+        "content": "替代来访者做决定"
+      }
+    ],
+    "analysis": "面质（confrontation）指咨询师指出来访者言语与非言语、想法与行为之间的不一致，以促进来访者觉察和改变。"
+  },
+  {
+    "type": 1,
+    "chapterId": 8,
+    "content": "咨询中解释技术的目的是？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "给来访者提供生活建议"
+      },
+      {
+        "label": "B",
+        "content": "帮助来访者从新的角度理解问题"
+      },
+      {
+        "label": "C",
+        "content": "验证咨询师的假设"
+      },
+      {
+        "label": "D",
+        "content": "消除来访者的所有疑虑"
+      }
+    ],
+    "analysis": "解释（interpretation）是在一定理论框架下，为来访者的问题提供新的理解视角，促进自我觉察。"
+  },
+  {
+    "type": 1,
+    "chapterId": 8,
+    "content": "在心理咨询中，咨询师表达积极关注的目的是？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "让来访者对咨询师产生好印象"
+      },
+      {
+        "label": "B",
+        "content": "准确判断来访者的问题类型"
+      },
+      {
+        "label": "C",
+        "content": "发现和强化来访者的积极资源"
+      },
+      {
+        "label": "D",
+        "content": "提高咨询的效率和速度"
+      }
+    ],
+    "analysis": "积极关注（positive regard）指关注来访者的积极方面和潜能，帮助来访者看到自身资源和优势。"
+  },
+  {
+    "type": 1,
+    "chapterId": 8,
+    "content": "咨询中，当来访者阻抗时的正确做法是？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "直接批评来访者"
+      },
+      {
+        "label": "B",
+        "content": "立即终止咨询"
+      },
+      {
+        "label": "C",
+        "content": "强迫来访者改变"
+      },
+      {
+        "label": "D",
+        "content": "理解阻抗原因，与来访者讨论"
+      }
+    ],
+    "analysis": "阻抗是咨询中的常见现象，往往反映了来访者的内在冲突。理解阻抗的原因并与之讨论是专业做法。"
+  },
+  {
+    "type": 1,
+    "chapterId": 8,
+    "content": "封闭式提问最适合用于？",
+    "answer": "A",
+    "options": [
+      {
+        "label": "A",
+        "content": "收集具体事实信息"
+      },
+      {
+        "label": "B",
+        "content": "鼓励来访者深入表达"
+      },
+      {
+        "label": "C",
+        "content": "探索来访者的情感体验"
+      },
+      {
+        "label": "D",
+        "content": "促进来访者的自我觉察"
+      }
+    ],
+    "analysis": "封闭式提问（用\"是/否\"回答的问题）适合收集具体信息、澄清事实。开放式提问适合探索性会谈。"
+  },
+  {
+    "type": 2,
+    "chapterId": 8,
+    "content": "以下属于开放式提问的有？",
+    "answer": "A,B,C",
+    "options": [
+      {
+        "label": "A",
+        "content": "\"你对此有什么感受？\""
+      },
+      {
+        "label": "B",
+        "content": "\"这件事是怎么发生的？\""
+      },
+      {
+        "label": "C",
+        "content": "\"你想如何解决这个问题？\""
+      },
+      {
+        "label": "D",
+        "content": "\"你是不是感到很难过？\""
+      }
+    ],
+    "analysis": "开放式提问不能用简单的\"是/否\"回答，鼓励来访者详细表达。D是封闭式提问。"
+  },
+  {
+    "type": 2,
+    "chapterId": 8,
+    "content": "咨询师需要自我觉察的领域包括？",
+    "answer": "A,B,C,D",
+    "options": [
+      {
+        "label": "A",
+        "content": "自己的价值观"
+      },
+      {
+        "label": "B",
+        "content": "自己的情感反应"
+      },
+      {
+        "label": "C",
+        "content": "自己的文化背景"
+      },
+      {
+        "label": "D",
+        "content": "自己的专业限制"
+      }
+    ],
+    "analysis": "咨询师需要持续自我觉察：价值观、情感反应（避免反移情）、文化敏感度、专业能力边界。"
+  },
+  {
+    "type": 3,
+    "chapterId": 8,
+    "content": "在咨询中，咨询师应避免使用专业术语。",
+    "answer": "正确",
+    "analysis": "使用专业术语可能造成沟通障碍，让来访者产生距离感。咨询师应用来访者能理解的语言沟通。"
+  },
+  {
+    "type": 3,
+    "chapterId": 8,
+    "content": "咨询师可以给来访者赠送私人礼物以增进关系。",
+    "answer": "错误",
+    "analysis": "接受或赠送礼物涉及多重关系问题，可能破坏咨询的专业边界。应遵循相关伦理规范谨慎处理。"
+  },
+  {
+    "type": 1,
+    "chapterId": 9,
+    "content": "韦氏智力量表测验结果中，平均智商是？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "50"
+      },
+      {
+        "label": "B",
+        "content": "90"
+      },
+      {
+        "label": "C",
+        "content": "100"
+      },
+      {
+        "label": "D",
+        "content": "120"
+      }
+    ],
+    "analysis": "韦氏智力量表采用离差智商，均值为100，标准差为15。"
+  },
+  {
+    "type": 1,
+    "chapterId": 9,
+    "content": "MMPI共有多少个题目？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "366"
+      },
+      {
+        "label": "B",
+        "content": "500"
+      },
+      {
+        "label": "C",
+        "content": "567"
+      },
+      {
+        "label": "D",
+        "content": "600"
+      }
+    ],
+    "analysis": "MMPI（明尼苏达多相人格问卷）共有567个题目，包含10个临床量表和4个效度量表。"
+  },
+  {
+    "type": 1,
+    "chapterId": 9,
+    "content": "SCL-90是评估什么的？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "智力水平"
+      },
+      {
+        "label": "B",
+        "content": "人格特质"
+      },
+      {
+        "label": "C",
+        "content": "职业兴趣"
+      },
+      {
+        "label": "D",
+        "content": "心理健康状况"
+      }
+    ],
+    "analysis": "SCL-90（症状自评量表）用于评估个体近期的心理健康状况，包含90个项目、10个因子。"
+  },
+  {
+    "type": 1,
+    "chapterId": 9,
+    "content": "EPQ测量的人格维度不包括？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "内外向（E）"
+      },
+      {
+        "label": "B",
+        "content": "神经质（N）"
+      },
+      {
+        "label": "C",
+        "content": "开放性（O）"
+      },
+      {
+        "label": "D",
+        "content": "精神质（P）"
+      }
+    ],
+    "analysis": "EPQ（艾森克人格问卷）测量三个维度：内外向（E）、神经质（N）、精神质（P），另加说谎量表（L）。开放性是大五人格的维度。"
+  },
+  {
+    "type": 1,
+    "chapterId": 9,
+    "content": "实施心理测验时，主试的首要责任是？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "快速完成测验"
+      },
+      {
+        "label": "B",
+        "content": "保证测验的标准化实施"
+      },
+      {
+        "label": "C",
+        "content": "解释测验结果"
+      },
+      {
+        "label": "D",
+        "content": "选择适合的测验"
+      }
+    ],
+    "analysis": "主试的首要责任是严格按照标准化程序实施测验，包括统一指导语、控制环境、正确计时等。"
+  },
+  {
+    "type": 1,
+    "chapterId": 9,
+    "content": "SDS（抑郁自评量表）的评定时间范围是？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "过去3天"
+      },
+      {
+        "label": "B",
+        "content": "过去1周"
+      },
+      {
+        "label": "C",
+        "content": "过去2周"
+      },
+      {
+        "label": "D",
+        "content": "过去1个月"
+      }
+    ],
+    "analysis": "SDS（Zung抑郁自评量表）评定最近一周的抑郁症状，包含20个项目。"
+  },
+  {
+    "type": 1,
+    "chapterId": 9,
+    "content": "16PF测验测量的特质数量是？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "5"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "16"
+      },
+      {
+        "label": "D",
+        "content": "25"
+      }
+    ],
+    "analysis": "16PF（卡特尔16种人格因素问卷）测量16种根源特质（如乐群性、聪慧性、稳定性等）。"
+  },
+  {
+    "type": 1,
+    "chapterId": 9,
+    "content": "测验结果报告中应包含的重要信息是？",
+    "answer": "A",
+    "options": [
+      {
+        "label": "A",
+        "content": "被试信息、测验名称、分数解释和建议"
+      },
+      {
+        "label": "B",
+        "content": "测验的完整题目"
+      },
+      {
+        "label": "C",
+        "content": "其他被试的分数"
+      },
+      {
+        "label": "D",
+        "content": "测验开发者的个人信息"
+      }
+    ],
+    "analysis": "测验报告应包括：被试基本信息、施测环境、所用测验名称、分数及百分位、解释和建议。"
+  },
+  {
+    "type": 2,
+    "chapterId": 9,
+    "content": "以下属于人格测验的有？",
+    "answer": "A,B,D",
+    "options": [
+      {
+        "label": "A",
+        "content": "MMPI"
+      },
+      {
+        "label": "B",
+        "content": "16PF"
+      },
+      {
+        "label": "C",
+        "content": "韦氏智力测验"
+      },
+      {
+        "label": "D",
+        "content": "EPQ"
+      }
+    ],
+    "analysis": "MMPI、16PF、EPQ均为人格测验。韦氏智力测验是智力测验，不是人格测验。"
+  },
+  {
+    "type": 2,
+    "chapterId": 9,
+    "content": "使用心理测验的伦理原则包括？",
+    "answer": "A,B,C,D",
+    "options": [
+      {
+        "label": "A",
+        "content": "尊重被试知情同意权"
+      },
+      {
+        "label": "B",
+        "content": "保护测验结果的保密性"
+      },
+      {
+        "label": "C",
+        "content": "由合格人员实施和解释"
+      },
+      {
+        "label": "D",
+        "content": "不滥用量表"
+      }
+    ],
+    "analysis": "心理测验伦理规范包括：知情同意、保密、合格实施、不滥用、客观解释、保护被试权益。"
+  },
+  {
+    "type": 3,
+    "chapterId": 9,
+    "content": "智力测验的智商分数是固定不变的。",
+    "answer": "错误",
+    "analysis": "智商分数可以随训练、教育、环境等因素变化，特别是流体智力，晶体智力甚至随年龄增长。"
+  },
+  {
+    "type": 3,
+    "chapterId": 9,
+    "content": "心理测验的结果应当结合会谈和观察进行综合评估。",
+    "answer": "正确",
+    "analysis": "心理测验只是评估的一个维度，应结合会谈、行为观察、生活史等多方面信息进行综合评估。"
+  },
+  {
+    "type": 1,
+    "chapterId": 10,
+    "content": "心理咨询师保密原则的例外不包括？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "来访者有自杀倾向"
+      },
+      {
+        "label": "B",
+        "content": "来访者有伤害他人的计划"
+      },
+      {
+        "label": "C",
+        "content": "法律要求披露"
+      },
+      {
+        "label": "D",
+        "content": "来访者的家庭成员要求了解情况"
+      }
+    ],
+    "analysis": "保密例外仅限：即将发生伤害自身或他人的危险、法律要求披露。家庭成员的要求不属于保密例外。"
+  },
+  {
+    "type": 1,
+    "chapterId": 10,
+    "content": "心理咨询师与来访者建立双重关系的主要问题是？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "降低咨询收费"
+      },
+      {
+        "label": "B",
+        "content": "方便安排咨询时间"
+      },
+      {
+        "label": "C",
+        "content": "可能影响专业判断和来访者权益"
+      },
+      {
+        "label": "D",
+        "content": "增加咨询的便利性"
+      }
+    ],
+    "analysis": "双重/多重关系可能影响咨询师的专业判断、客观性和公正性，损害来访者利益。伦理规范明确要求避免非专业关系。"
+  },
+  {
+    "type": 1,
+    "chapterId": 10,
+    "content": "中国心理咨询师的职业资格认证目前由哪个部门管理？",
+    "answer": "C",
+    "options": [
+      {
+        "label": "A",
+        "content": "国家卫生健康委员会"
+      },
+      {
+        "label": "B",
+        "content": "人力资源和社会保障部"
+      },
+      {
+        "label": "C",
+        "content": "由行业协会进行水平评价"
+      },
+      {
+        "label": "D",
+        "content": "教育部"
+      }
+    ],
+    "analysis": "2017年国家取消了心理咨询师职业资格认证，目前由行业协会（如中国心理学会）进行水平评价和注册管理。"
+  },
+  {
+    "type": 1,
+    "chapterId": 10,
+    "content": "心理咨询师在紧急情况下可能需要打破保密原则时，首先应当？",
+    "answer": "A",
+    "options": [
+      {
+        "label": "A",
+        "content": "尽可能告知来访者并讨论"
+      },
+      {
+        "label": "B",
+        "content": "立即报警"
+      },
+      {
+        "label": "C",
+        "content": "只披露必要的信息"
+      },
+      {
+        "label": "D",
+        "content": "咨询师自行决定"
+      }
+    ],
+    "analysis": "在必须打破保密原则前，应尽量告知来访者并讨论，说明理由和将要披露的范围，尊重来访者的知情权。"
+  },
+  {
+    "type": 1,
+    "chapterId": 10,
+    "content": "咨询记录应当保存多长时间？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "1-2年"
+      },
+      {
+        "label": "B",
+        "content": "至少7年（或按当地规定）"
+      },
+      {
+        "label": "C",
+        "content": "20年以上"
+      },
+      {
+        "label": "D",
+        "content": "永久保存"
+      }
+    ],
+    "analysis": "按照行业规范和大多数地区的法规要求，心理咨询记录应至少保存7年（未成年人记录至成年后数年）。"
+  },
+  {
+    "type": 1,
+    "chapterId": 10,
+    "content": "关于心理咨询收费，正确的做法是？",
+    "answer": "D",
+    "options": [
+      {
+        "label": "A",
+        "content": "可以根据来访者经济状况随意调整"
+      },
+      {
+        "label": "B",
+        "content": "收取得越高越好"
+      },
+      {
+        "label": "C",
+        "content": "不应告诉来访者收费标准"
+      },
+      {
+        "label": "D",
+        "content": "事前明确告知收费标准并保持透明"
+      }
+    ],
+    "analysis": "伦理规范要求咨询师在开始服务前明确告知收费标准，保持透明，避免产生后续纠纷。"
+  },
+  {
+    "type": 1,
+    "chapterId": 10,
+    "content": "心理咨询师转介的条件不包括？",
+    "answer": "B",
+    "options": [
+      {
+        "label": "A",
+        "content": "来访者的问题超出咨询师专业能力"
+      },
+      {
+        "label": "B",
+        "content": "来访者不听话、不配合"
+      },
+      {
+        "label": "C",
+        "content": "来访者需要药物治疗"
+      },
+      {
+        "label": "D",
+        "content": "与来访者存在多重关系"
+      }
+    ],
+    "analysis": "转介应在专业需要时进行：超出能力范围、需要其他专业服务（如精神科）、存在多重关系等。不配合不是转介理由。"
+  },
+  {
+    "type": 2,
+    "chapterId": 10,
+    "content": "以下哪些属于心理咨询伦理的基本原则？",
+    "answer": "A,B,C,D",
+    "options": [
+      {
+        "label": "A",
+        "content": "善行（有益于来访者）"
+      },
+      {
+        "label": "B",
+        "content": "责任（对专业和社会的责任）"
+      },
+      {
+        "label": "C",
+        "content": "诚信（诚实和守信）"
+      },
+      {
+        "label": "D",
+        "content": "尊重（尊重来访者的尊严和权利）"
+      }
+    ],
+    "analysis": "心理咨询伦理基本原则包括：善行、责任、诚信、公正、尊重。这些原则指导咨询师的专业行为。"
+  },
+  {
+    "type": 2,
+    "chapterId": 10,
+    "content": "心理咨询师需要继续教育的原因包括？",
+    "answer": "A,B,C",
+    "options": [
+      {
+        "label": "A",
+        "content": "保持专业知识更新"
+      },
+      {
+        "label": "B",
+        "content": "学习新的治疗技术"
+      },
+      {
+        "label": "C",
+        "content": "提升专业胜任力"
+      },
+      {
+        "label": "D",
+        "content": "获得更多证书"
+      }
+    ],
+    "analysis": "继续教育是为了保持和提升专业能力，保持知识更新，学习新技术，而非单纯获取证书。"
+  },
+  {
+    "type": 3,
+    "chapterId": 10,
+    "content": "心理咨询师可以对熟人（如朋友、同事）进行咨询。",
+    "answer": "错误",
+    "analysis": "对熟人进行咨询涉及双重关系问题，可能影响咨询师的客观性和专业判断。伦理规范建议避免。"
+  },
+  {
+    "type": 3,
+    "chapterId": 10,
+    "content": "网络心理咨询不需要遵循与传统咨询相同的伦理标准。",
+    "answer": "错误",
+    "analysis": "网络心理咨询同样需要遵循保密、知情同意、专业边界等伦理标准，还需要额外考虑网络信息安全问题。"
+  }
+]
